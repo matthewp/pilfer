@@ -1,0 +1,35 @@
+{
+  "name": "pilfer",
+  "version": "0.0.1",
+  "description": "A sane bundler",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "bin": {
+    "pilfer": "bin/pilfer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewp/pilfer.git"
+  },
+  "keywords": [
+    "StealJS",
+    "Modules",
+    "ES6"
+  ],
+  "author": "Matthew Phillips",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/matthewp/pilfer/issues"
+  },
+  "homepage": "https://github.com/matthewp/pilfer#readme",
+  "dependencies": {
+    "lodash.defaultsdeep": "^4.3.0",
+    "moment": "^2.11.2",
+    "steal-almond": "0.0.1",
+    "steal-tools": "stealjs/steal-tools#streams",
+    "through2": "^2.0.1",
+    "yargs": "^4.1.0"
+  }
+}
