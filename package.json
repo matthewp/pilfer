@@ -27,7 +27,7 @@
   "dependencies": {
     "lodash.defaultsdeep": "^4.3.0",
     "moment": "^2.11.2",
-    "steal-almond": "0.0.1",
+    "steal-almond": "^0.1.0",
     "steal-tools": "stealjs/steal-tools#streams",
     "through2": "^2.0.1",
     "yargs": "^4.1.0"
