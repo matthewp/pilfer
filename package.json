@@ -37,8 +37,7 @@
     "engine-dependencies": "^0.2.11",
     "connect": "^2.14.4",
     "pdenodeify": "^0.1.0",
-    "rimraf": "^2.5.2",
-    "stream-to-promise": "^1.1.0"
+    "rimraf": "^2.5.2"
   },
   "engineDependencies": {
     "node": {
