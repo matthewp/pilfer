@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/matthewp/pilfer.svg?branch=master)](https://travis-ci.org/matthewp/pilfer)
 [![npm version](https://badge.fury.io/js/pilfer.svg)](http://badge.fury.io/js/pilfer)
 
-**pilfer** is a simple module bundler with an easy to use API with ES6 (and [Babel](https://babeljs.io/) support. With the built-in watch mode rebuilds are ultra fast.
+**pilfer** is a simple module bundler with an easy to use API with ES6 (and [Babel](https://babeljs.io/)) support. With the built-in watch mode rebuilds are ultra fast.
 
 ## Install
 
