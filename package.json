@@ -34,8 +34,9 @@
     "yargs": "^4.1.0"
   },
   "devDependencies": {
-    "engine-dependencies": "^0.2.11",
     "connect": "^2.14.4",
+    "engine-dependencies": "^0.2.11",
+    "mocha": "^2.4.5",
     "pdenodeify": "^0.1.0",
     "rimraf": "^2.5.2"
   },
