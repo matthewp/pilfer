@@ -3,7 +3,6 @@ var fs = require("fs");
 var asap = require("pdenodeify");
 var rmdir = asap(require("rimraf"));
 var pilfer = require("../lib/main");
-var toPromise = require("stream-to-promise");
 
 var helpers = require("./helpers");
 var open = helpers.open;
