@@ -1,6 +1,6 @@
 {
   "name": "pilfer",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A sane bundler",
   "main": "lib/main.js",
   "scripts": {
